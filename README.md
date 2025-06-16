@@ -53,3 +53,6 @@ When using the GitHub logos, be sure to follow the [GitHub logo guidelines](http
 ## Thanks :purple_heart:
 
 Thanks for all your contributions and efforts towards improving the GitHub documentation. We thank you for being part of our :sparkles: community :sparkles:!
+2012, 19:19 Uhr
+9
+Beim .slnEinchecken von Dateien erhalten wir Rauschunterschiede wie: „ -# Visual Studio 14     -VisualStudioVersion = 14.0.24720.0     +# Visual Studio 2013     +VisualStudioVersion = 12.0.31101.0 Kann dies vermieden werde
